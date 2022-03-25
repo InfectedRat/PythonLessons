@@ -21,3 +21,5 @@ while float(result_day_first) < float(result_check_exceed):
     number_day = number_day + 1
 else:
     print(number_day)
+
+# test commit 1
